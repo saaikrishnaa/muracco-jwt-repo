@@ -1,3 +1,4 @@
+# This project work is the intelligence and hardwork of Muracco's original repository - https://github.com/murraco/spring-boot-jwt, Not of mine :)
 # Spring Boot JWT
 
 ![](https://img.shields.io/badge/build-success-brightgreen.svg)
