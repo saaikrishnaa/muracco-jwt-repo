@@ -40,6 +40,7 @@ public class UserService {
       return jwtTokenProvider.createToken(appUser.getUsername(), appUser.getAppUserRoles());
     } else {
       throw new CustomException("Username is already in use", HttpStatus.UNPROCESSABLE_ENTITY);
+      //this is my extra implementation
     }
   }
 
